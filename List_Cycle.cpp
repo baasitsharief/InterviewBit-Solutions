@@ -6,6 +6,7 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
+
 ListNode* Solution::detectCycle(ListNode* head) {
     // Do not write main() function.
     // Do not read input, instead use the arguments to the function.
